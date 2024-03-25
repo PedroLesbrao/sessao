@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+#container{
+    margin: 0 auto;
+    padding: 20px;
+    width: 700px;
+    height: 500px;
+    border: 2px solid #000;
+    background-color: #FFFFE6;
+    font-size: 25px;
+}
+.falha{
+    color: red;    
+}
